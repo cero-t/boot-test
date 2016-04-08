@@ -5,6 +5,7 @@ Build example using Spring Cloud and Spring IO platform.
 
 |OK/NG|Spring Cloud|Spring IO platform|
 |:---:|:-----------|:-----------------|
+|OK   |Angel.SR3   |1.1.3.RELEASE     |
 |OK   |Angel.SR3   |1.1.4.RELEASE     |
 |OK   |Angel.SR4   |1.1.4.RELEASE     |
 |NG   |Angel.SR5   |1.1.4.RELEASE     |
